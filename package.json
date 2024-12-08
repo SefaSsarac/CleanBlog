@@ -1,0 +1,29 @@
+{
+    "name": "CleanBlog",
+    "version": "1.0.0",
+    "description": "clean blog app",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start":"nodemon app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SefaSsarac/CleanBlog.git"
+    },
+    "keywords": [
+      "clean",
+      "blog",
+      "app",
+      "node"
+    ],
+    "author": "Sefa Saraç",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/SefaSsarac/CleanBlog/issues"
+    },
+    "homepage": "https://github.com/SefaSsarac/CleanBlog#readme",
+    "dependencies": {
+      "express": "^4.21.1"
+    }
+  }
